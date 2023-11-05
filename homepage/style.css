@@ -1,0 +1,18 @@
+#banner {
+    display: flex;
+    height: 3em;
+    align-items: center;
+    background-color: #154734;
+    color: white;
+    font-family: "modesto-text", Georgia, serif;
+    padding: 10px;
+}
+
+#company-logo {
+    width: 7em;
+    font-size: 2em;
+}
+
+a {
+    padding: 20px;
+}
